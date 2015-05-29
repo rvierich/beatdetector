@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rvierich/beatdetector/issues"
   },
-  "homepage": "https://github.com/rvierich/beatdetector"
+  "homepage": "https://github.com/rvierich/beatdetector",
+  "dependencies": {
+    "fft": "^0.2.1",
+    "pcm": "^1.0.3"
+  }
 }

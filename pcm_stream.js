@@ -1,7 +1,6 @@
 var fs = require('fs');
 var pcm = require('pcm');
 var FFT = require('fft');
-var beats = require('beats');
 
 var filename = './montana.mp3';
 
